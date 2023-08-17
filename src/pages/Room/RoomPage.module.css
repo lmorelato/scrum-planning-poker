@@ -1,0 +1,52 @@
+/*
+.deck {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  row-gap: 24px;
+  column-gap: 24px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid;
+  border-width: 2px;
+  border-color: rgba(255, 255, 255, .12);
+  background-color: rgba(255, 255, 255, 0.87);
+  width: 120px;
+  height: 160px;
+  font-size: 36px;
+  border-radius: 10px;
+  cursor: pointer;
+  zoom: 1;
+}
+
+.card span {
+  align-self: center;
+  color: #000;
+  font-weight: 600;
+}
+
+@media all and (min-width: 960px) and (max-width: 1024px) {
+}
+
+@media all and (min-width: 801px) and (max-width: 959px) {
+}
+
+@media all and (min-width: 769px) and (max-width: 800px) {
+}
+
+@media all and (min-width: 569px) and (max-width: 768px) {
+}
+}
+
+@media all and (min-width: 0px) and (max-width: 480px) {
+  .card {
+    zoom: 0.78;
+  }
+}
+*/
